@@ -12,7 +12,7 @@ These are all of the things that are included in the craftbot plus essentials. C
 - [Rail system](doc/rails.md)
 - [Presets for PrusaSlicer](doc/presets.md)
 - [Detachable trash can for filament and failed prints](doc/trash-can.md)
-- [Holder for something](doc/bag-holder.md)
+- [Holder for miscellaneous items](doc/bag-holder.md)
 
 
 ## Tips
