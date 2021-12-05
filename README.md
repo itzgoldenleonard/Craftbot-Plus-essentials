@@ -31,7 +31,9 @@ This is a free and open source project under the [CC BY-SA 4.0](https://creative
 ## Project structure
 
 The `CAD` folder contains the raw FreeCAD files and .step versions (that I try to keep up to date), you might want to edit them to make them suit your needs.
+
 `doc` and `images` just contain documentation and images, remember to add that if you want to contribute another component to the project.
+
 `prints` has the stl mesh files that you can slice and print. It also has pre sliced versions ready to print on a Craftbot Plus. If you contribute a component you also have to make these files for it.
 
 
