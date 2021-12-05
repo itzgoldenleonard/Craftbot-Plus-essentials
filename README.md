@@ -15,17 +15,17 @@ These are all of the things that are included in the craftbot plus essentials. C
 - [Holder for something](doc/bag-holder.md)
 
 
-## License
-
-This is a free and open source project under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, contributions to this repo are welcome. You can use any part of the project for anything you like as long as you follow the [conditions of the license](https://choosealicense.com/licenses/cc-by-sa-4.0/)
-
-
 ## Tips
 
 Here are a bunch of other little tips in no particular order that can improve your printing experience.
 - Update the firmware on your printer, some of the new features are nice
 - Take the time to learn a good slicer program like PrusaSlicer
 - Buying a flexible build plate makes it much easier to get prints off when they're done
+
+
+## License
+
+This is a free and open source project under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license, contributions to this repo are welcome. You can use any part of the project for anything you like as long as you follow the [conditions of the license](https://choosealicense.com/licenses/cc-by-sa-4.0/)
 
 
 ## Project structure

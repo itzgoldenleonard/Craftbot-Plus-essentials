@@ -1,3 +1,5 @@
+< [Back](../README.md)
+
 # Detachable trash can
 
 ![Photo of trash can (with stuff in it)](../images/trash-can.jpg)
