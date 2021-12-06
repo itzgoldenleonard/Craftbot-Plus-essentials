@@ -1,6 +1,6 @@
 # Craftbot Plus Essentials
 
-![fancy image](images/header.svg)
+![fancy image](images/header.jpg)
 
 Whether you just got a new Craftbot Plus (Pro) or if you've had it for a long time, this repo is a collection of stuff that's very useful for your 3D printer. 
 
