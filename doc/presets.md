@@ -1,8 +1,8 @@
 < [Back](../README.md)
 
-# Presets for PrusaSlicer
-
 ![Some image of PrusaSlicer](../images/prusaslicer.jpg)
+
+# Presets for PrusaSlicer
 
 The official slicer for the printer called craftware is kinda bad. A much better choice is PrusaSlicer, and I would definetly recommend you get familiar with it and start using it. Which is why I've made presets for the Craftbot Plus for PrusaSlicer.
 
