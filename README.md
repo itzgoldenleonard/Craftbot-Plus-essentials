@@ -2,12 +2,12 @@
 
 ![fancy image](images/header.jpg)
 
-Whether you just got a new Craftbot Plus (Pro) or if you've had it for a long time, this repo is a collection of stuff that's very useful for your 3D printer. 
+Whether you just got a new Craftbot Plus (Pro) or you've had it for a long time, this repo is a collection of stuff that's very useful for your 3D printer. 
 
 
 ## Components
 
-These are all of the things that are included in the craftbot plus essentials. Click on an item to read more about it
+These are all of the things that are included in the craftbot plus essentials. Click on an item to read more about it. All the prints are pre-sliced for the Craftbot Plus, ready to print and located in the `prints` folder.
 
 - [Rail system](doc/rails.md)
 - [Presets for PrusaSlicer](doc/presets.md)
