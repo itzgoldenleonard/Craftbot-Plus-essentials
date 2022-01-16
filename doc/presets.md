@@ -14,6 +14,8 @@ Copy the files from there to your PrusaSlicer config folder located in:
 
 Linux: `~/.config/PrusaSlicer`
 
+Flatpak: `~/.var/app/com.prusa3d.PrusaSlicer/config/PrusaSlicer`
+
 MacOS: `~/Library/Application Support/PrusaSlicer`
 
 Windows: `C:/users/<username>/Roaming/PrusaSlicer`
