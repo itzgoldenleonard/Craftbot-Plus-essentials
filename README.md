@@ -37,3 +37,6 @@ The `CAD` folder contains the raw FreeCAD files and .step versions (that I try t
 `prints` has the stl mesh files that you can slice and print. It also has pre sliced versions ready to print on a Craftbot Plus. If you contribute a component you also have to make these files for it.
 
 
+## Contributions
+
+Thanks to [Yves Kreis](https://www.thingiverse.com/yveskreis) for improving the design of the rails, making them no longer protrude from the base of the printer when mounted. The changes from [their remix](https://www.thingiverse.com/thing:6556234) were merged with this repo the 21st May 2024.
